@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.nav .nav-bar li a {
+    display: flex;
+    padding: 2em;
+    
+}
